@@ -1,6 +1,6 @@
 Repository to accompany
 
-# **Cold tolerance strategy and lower temperature thresholds of *Lycorma delicatula* **
+# Cold tolerance strategy and lower temperature thresholds of *Lycorma delicatula*
 
 ### Anna J. Turbelin, Brent Sinclair, Amanda D. Roe
 
