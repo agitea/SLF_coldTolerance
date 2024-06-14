@@ -1,0 +1,12 @@
+## Data used
+Dataset S1. Field and laboratory temperature exposure of Lycorma delicatula egg masses used in YR2 experiments. Climate data for Blue Marsh Lake Pennsylvania from NOAA (2023) online https://www.weather.gov/wrh
+
+Dataset S2. Field temperature data from Blue Marsh Lake Pennsylvania where Lycorma delicatula egg masses were collected in YR1 (November 2021) and YR2 (December 2022). Climate data from NOAA (2023) online https://www.weather.gov/wrh
+
+Dataset S3. Handling effects on survival. Results from testing the effect of removing eggs from egg masses and rearing individuals; includes hatch success of each treatment.
+
+Dataset S4. Supercooling point (SCP) measurements. Results from exposing sets of eggs to decreasing temperatures until all eggs experience a SCP, eggs are returned to +6 °C to complete chill requirement and then eggs are warmed and checked for survival. 
+
+Dataset S5.  Lower Lethal Limits assessment. Results from exposing groups of egg masses to set temperatures to identify lower lethal limits and hatch success assessment. 
+
+Dataset S6.  Adjusted and Homogenized Canadian Climate Data (AHCCD) for stations near which L. delicatula was observed. Data from Environment and Climate Change Canada (Available online: https://climatedata.ca/download/#ahccd-download )
