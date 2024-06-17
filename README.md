@@ -47,6 +47,5 @@ Dataset S5.  Lower Lethal Limits assessment. Results from exposing groups of egg
 Dataset S6.  Adjusted and Homogenized Canadian Climate Data (AHCCD) for stations near which L. delicatula was observed. Data from Environment and Climate Change Canada (Available online: https://climatedata.ca/download/#ahccd-download )
 
 ## HOW TO CITE THIS MATERIAL
-Turbelin A. J. et al.
-agitea/SLF_colTolerance: SLF_coldTolerance_v1.0 (SLF_coldT_v1.0)
-Zenodo (2024), 10.5281/zenodo.11989596
+Turbelin, A. (2024). Cold tolerance strategy and lower temperature thresholds of Lycorma delicatula egg masses (SLF_coldT_v1.0). Zenodo. https://doi.org/10.5281/zenodo.11989596
+
