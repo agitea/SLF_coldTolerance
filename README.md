@@ -11,6 +11,7 @@ Repository to accompany
 *code written by Anna J Turbelin*
 
 ## SCRIPTS
+Scripts 4, 6 and 8 are not used in the publication.
 
 1_SLF_coldTolerance_PATemp_F1S1 - script to plot temperature data from Blue Marsh lake where egg masses where collected and look at differences in autumn field acclimatization temperature between 2021 and 2022.
 
