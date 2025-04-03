@@ -29,7 +29,7 @@ Scripts 4, 6 and 8 are not used in the publication.
 
 8_SLF_coldTolerance_LLT - script to calculate lower lethal temperatures (LLT10, LLT50, LLT90). Requires running script 4_SLF_coldTolerance_binomialDataset and adjusted_doseP_fun.
 
-9_SLF_CFIA_obs_AHCCD_Temperature - script to calculate the reoccurence of cold events in cities where spotted lanternfly has been observed in Canada: i) daily minimum below -27.7 C, ii) 10 or more consecutive days with maximum temperature below -15 C, between 1973-2022 
+9_SLF_CFIA_obs_AHCCD_Temperature_R1 - script to calculate the reoccurence of cold events in cities where spotted lanternfly has been observed in Canada: i) daily minimum below -27.7 C, ii) 10 or more consecutive days with maximum temperature below -15 C, between 1973-2022 
 
 adjusted_doseP_fun - function adapted from the dose.p() function from the MASS package (Venables and Ripley, 2002) to calculate LLTs.
 
